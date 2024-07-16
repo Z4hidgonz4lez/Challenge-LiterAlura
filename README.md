@@ -47,6 +47,10 @@ LiterAlura es una aplicación desarrollada para gestionar información de libros
 
 ### Interacción por Consola
 La aplicación permite interactuar con la base de datos de libros a través de la consola. Puedes realizar las siguientes acciones:
+1-buscar libros por titulo
+2. Buscar libros por autor
+3. Buscar libros por idioma
+4. Buscar libros por fecha de nacimiento y fallecimiento del autor
 
 - **Obtener información de libros desde la API:**
     - Ejecuta el método correspondiente en tu clase de servicio para obtener y almacenar libros en la base de datos.
